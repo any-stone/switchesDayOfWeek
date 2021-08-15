@@ -1,0 +1,3 @@
+/Users/kuxanna/CLionProjects/switches/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kuxanna/CLionProjects/switches/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kuxanna/CLionProjects/switches/cmake-build-debug/CMakeFiles/switches.dir
